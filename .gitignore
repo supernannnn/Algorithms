@@ -1,0 +1,4 @@
+# 所有编译的build文件
+**/build/
+
+.vscode
